@@ -13,7 +13,7 @@
 1.拉取代码
 
 ```
-git clone 
+git clone https://github.com/Skyblueeeee/Gradio-WD14-GLM-ImageAnalysis.git
 ```
 
 2.新建虚拟环境
