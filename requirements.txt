@@ -1,0 +1,14 @@
+torch==2.0.0+cu117
+torchvision==0.15.0+cu117
+tensorflow==2.13.0
+transformers==4.32.0
+gradio==3.40.0
+protobuf
+cpm_kernels
+mdtex2html
+sentencepiece
+accelerate
+opencv-python
+toml
+onnx
+onnxruntime
